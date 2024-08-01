@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Menu Page</title>
+    <link rel="stylesheet" href="./CSS/MenuStyle.css" />
+  </head>
+  <body>
+    <h1 style="margin-left: 600px">Menu</h1>
+    <div class="menu-item">
+      <div class="get">
+        <img src="./Images/1.png" alt="1" width="75px" height="75px" />
+        <span>Crispy Supreme</span>
+        <select
+          name="category"
+          onchange="updatePrice(this, 'Crispy Supreme', 299)"
+        >
+          <option value="Veg">Veg</option>
+          <option value="Non-Veg">Non-Veg</option>
+          <option value="Vegan">Vegan</option>
+        </select>
+        <span id="Crispy Supreme">299Rs</span>
+        <input type="number" name="quantity" min="1" value="1" max="5" />
+        <button
+          onclick="addToCart('Crispy Supreme', 299, this.parentElement.querySelector('input[name=quantity]'), this.parentElement.querySelector('select[name=category]'))"
+        >
+          Add to Cart
+        </button>
+
+        <br />
+        <img src="./Images/2.png" alt="1" width="75px" height="75px" />
+
+        <span>Veg Supreme</span>
+
+        <select
+          name="category"
+          onchange="updatePrice(this, 'Veg Supreme', 349)"
+        >
+          <option value="Veg">Veg</option>
+          <option value="Non-Veg">Non-Veg</option>
+          <option value="Vegan">Vegan</option>
+        </select>
+        <span id="Veg Supreme">349Rs</span>
+
+        <input type="number" name="quantity" min="1" value="1" max="5" />
+
+        <button
+          onclick="addToCart('Veg Supreme', 349, this.parentElement.querySelector('input[name=quantity]'), this.parentElement.querySelector('select[name=category]'))"
+        >
+          Add to Cart
+        </button>
+
+        <br />
+        <img src="./Images/3.png" alt="1" width="75px" height="75px" />
+
+        <span>Mix Supreme</span>
+
+        <select
+          name="category"
+          onchange="updatePrice(this, 'Mix Supreme', 249)"
+        >
+          <option value="Veg">Veg</option>
+          <option value="Non-Veg">Non-Veg</option>
+          <option value="Vegan">Vegan</option>
+        </select>
+        <span id="Mix Supreme">249Rs</span>
+
+        <input type="number" name="quantity" min="1" value="1" max="5" />
+
+        <button
+          onclick="addToCart('Mix Supreme', 249, this.parentElement.querySelector('input[name=quantity]'), this.parentElement.querySelector('select[name=category]'))"
+        >
+          Add to Cart
+        </button>
+
+        <br />
+        <img src="./Images/4.png" alt="1" width="75px" height="75px" />
+
+        <span>Pizza Supreme</span>
+
+        <select
+          name="category"
+          onchange="updatePrice(this, 'Pizza Supreme', 399)"
+        >
+          <option value="Veg">Veg</option>
+          <option value="Non-Veg">Non-Veg</option>
+          <option value="Vegan">Vegan</option>
+        </select>
+        <span id="Pizza Supreme">399Rs</span>
+
+        <input type="number" name="quantity" min="1" value="1" max="5" />
+
+        <button
+          onclick="addToCart('Pizza Supreme', 399, this.parentElement.querySelector('input[name=quantity]'), this.parentElement.querySelector('select[name=category]'))"
+        >
+          Add to Cart
+        </button>
+        <br />
+        <img src="./Images/5.png" alt="1" width="75px" height="75px" />
+
+        <span>Hot Supreme</span>
+
+        <select
+          name="category"
+          onchange="updatePrice(this, 'Hot Supreme', 199)"
+        >
+          <option value="Veg">Veg</option>
+          <option value="Non-Veg">Non-Veg</option>
+          <option value="Vegan">Vegan</option>
+        </select>
+        <span id="Hot Supreme">199Rs</span>
+        <input type="number" name="quantity" min="1" value="1" max="5" />
+        <button
+          onclick="addToCart('Hot Supreme', 199, this.parentElement.querySelector('input[name=quantity]'), this.parentElement.querySelector('select[name=category]'))"
+        >
+          Add to Cart
+        </button>
+        <br />
+        <button onclick="viewCart()" id="ck">View Cart</button>
+      </div>
+    </div>
+
+    <script>
+      const cartData = [];
+      function addToCart(burgerType, basePrice, quantityInput, categorySelect) {
+        const category = categorySelect.value;
+        let quantity = parseInt(quantityInput.value);
+
+        let price = parseInt(document.getElementById(burgerType).textContent);
+
+        const existingItem = cartData.find(
+          (item) => item.burgerType === burgerType
+        );
+
+        if (existingItem) {
+          existingItem.quantity = Math.min(existingItem.quantity + quantity, 5);
+          existingItem.price = price;
+        } else {
+          cartData.push({
+            burgerType,
+            category,
+            price,
+            quantity: Math.min(quantity, 5),
+          });
+        }
+
+        localStorage.setItem("cartData", JSON.stringify(cartData));
+      }
+
+      function viewCart() {
+        window.location.href = "CartPage.html";
+      }
+      function updatePrice(selectElement, burgerType, basePrice) {
+        const category = selectElement.value;
+
+        let price = basePrice;
+        if (category === "Non-Veg") {
+          price += 50;
+        } else if (category === "Vegan") {
+          price += 100;
+        }
+
+        document.getElementById(burgerType).textContent = price + "Rs";
+      }
+    </script>
+  </body>
+</html>

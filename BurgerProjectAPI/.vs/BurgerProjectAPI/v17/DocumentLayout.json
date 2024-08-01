@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP110422\\source\\repos\\BurgerProjectAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9D97CC28-851C-48BA-8E35-E3B9B55E44DA}|BurgerProjectAPI\\BurgerProjectAPI.csproj|c:\\users\\hp110422\\source\\repos\\burgerprojectapi\\burgerprojectapi\\wwwroot\\cartpage.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9D97CC28-851C-48BA-8E35-E3B9B55E44DA}|BurgerProjectAPI\\BurgerProjectAPI.csproj|solutionrelative:burgerprojectapi\\wwwroot\\cartpage.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D97CC28-851C-48BA-8E35-E3B9B55E44DA}|BurgerProjectAPI\\BurgerProjectAPI.csproj|c:\\users\\hp110422\\source\\repos\\burgerprojectapi\\burgerprojectapi\\wwwroot\\menupage.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9D97CC28-851C-48BA-8E35-E3B9B55E44DA}|BurgerProjectAPI\\BurgerProjectAPI.csproj|solutionrelative:burgerprojectapi\\wwwroot\\menupage.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D97CC28-851C-48BA-8E35-E3B9B55E44DA}|BurgerProjectAPI\\BurgerProjectAPI.csproj|c:\\users\\hp110422\\source\\repos\\burgerprojectapi\\burgerprojectapi\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D97CC28-851C-48BA-8E35-E3B9B55E44DA}|BurgerProjectAPI\\BurgerProjectAPI.csproj|solutionrelative:burgerprojectapi\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MenuPage.html",
+              "DocumentMoniker": "C:\\Users\\HP110422\\source\\repos\\BurgerProjectAPI\\BurgerProjectAPI\\wwwroot\\MenuPage.html",
+              "RelativeDocumentMoniker": "BurgerProjectAPI\\wwwroot\\MenuPage.html",
+              "ToolTip": "C:\\Users\\HP110422\\source\\repos\\BurgerProjectAPI\\BurgerProjectAPI\\wwwroot\\MenuPage.html",
+              "RelativeToolTip": "BurgerProjectAPI\\wwwroot\\MenuPage.html",
+              "ViewState": "AQIAAFoAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-07-29T04:35:03.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CartPage.html",
+              "DocumentMoniker": "C:\\Users\\HP110422\\source\\repos\\BurgerProjectAPI\\BurgerProjectAPI\\wwwroot\\CartPage.html",
+              "RelativeDocumentMoniker": "BurgerProjectAPI\\wwwroot\\CartPage.html",
+              "ToolTip": "C:\\Users\\HP110422\\source\\repos\\BurgerProjectAPI\\BurgerProjectAPI\\wwwroot\\CartPage.html",
+              "RelativeToolTip": "BurgerProjectAPI\\wwwroot\\CartPage.html",
+              "ViewState": "AQIAAGMAAAAAAAAAAAAgwGsAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-07-29T04:32:50.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\HP110422\\source\\repos\\BurgerProjectAPI\\BurgerProjectAPI\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "BurgerProjectAPI\\Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\Users\\HP110422\\source\\repos\\BurgerProjectAPI\\BurgerProjectAPI\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "BurgerProjectAPI\\Controllers\\OrdersController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T04:32:41.49Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

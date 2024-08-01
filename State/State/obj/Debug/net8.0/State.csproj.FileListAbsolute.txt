@@ -1,0 +1,14 @@
+C:\Users\HP110422\source\repos\State\State\bin\Debug\net8.0\State.exe
+C:\Users\HP110422\source\repos\State\State\bin\Debug\net8.0\State.deps.json
+C:\Users\HP110422\source\repos\State\State\bin\Debug\net8.0\State.runtimeconfig.json
+C:\Users\HP110422\source\repos\State\State\bin\Debug\net8.0\State.dll
+C:\Users\HP110422\source\repos\State\State\bin\Debug\net8.0\State.pdb
+C:\Users\HP110422\source\repos\State\State\obj\Debug\net8.0\State.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP110422\source\repos\State\State\obj\Debug\net8.0\State.AssemblyInfoInputs.cache
+C:\Users\HP110422\source\repos\State\State\obj\Debug\net8.0\State.AssemblyInfo.cs
+C:\Users\HP110422\source\repos\State\State\obj\Debug\net8.0\State.csproj.CoreCompileInputs.cache
+C:\Users\HP110422\source\repos\State\State\obj\Debug\net8.0\State.dll
+C:\Users\HP110422\source\repos\State\State\obj\Debug\net8.0\refint\State.dll
+C:\Users\HP110422\source\repos\State\State\obj\Debug\net8.0\State.pdb
+C:\Users\HP110422\source\repos\State\State\obj\Debug\net8.0\State.genruntimeconfig.cache
+C:\Users\HP110422\source\repos\State\State\obj\Debug\net8.0\ref\State.dll

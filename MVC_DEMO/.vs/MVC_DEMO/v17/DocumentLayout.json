@@ -1,0 +1,140 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP110422\\source\\repos\\MVC_DEMO\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1BECDD38-707E-43CD-98FB-E6DA2D4C83A4}|MVC_DEMO\\MVC_DEMO.csproj|c:\\users\\hp110422\\source\\repos\\mvc_demo\\mvc_demo\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BECDD38-707E-43CD-98FB-E6DA2D4C83A4}|MVC_DEMO\\MVC_DEMO.csproj|solutionrelative:mvc_demo\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BECDD38-707E-43CD-98FB-E6DA2D4C83A4}|MVC_DEMO\\MVC_DEMO.csproj|c:\\users\\hp110422\\source\\repos\\mvc_demo\\mvc_demo\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BECDD38-707E-43CD-98FB-E6DA2D4C83A4}|MVC_DEMO\\MVC_DEMO.csproj|solutionrelative:mvc_demo\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BECDD38-707E-43CD-98FB-E6DA2D4C83A4}|MVC_DEMO\\MVC_DEMO.csproj|c:\\users\\hp110422\\source\\repos\\mvc_demo\\mvc_demo\\views\\home\\getperson.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1BECDD38-707E-43CD-98FB-E6DA2D4C83A4}|MVC_DEMO\\MVC_DEMO.csproj|solutionrelative:mvc_demo\\views\\home\\getperson.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BECDD38-707E-43CD-98FB-E6DA2D4C83A4}|MVC_DEMO\\MVC_DEMO.csproj|c:\\users\\hp110422\\source\\repos\\mvc_demo\\mvc_demo\\views\\home\\index1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1BECDD38-707E-43CD-98FB-E6DA2D4C83A4}|MVC_DEMO\\MVC_DEMO.csproj|solutionrelative:mvc_demo\\views\\home\\index1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BECDD38-707E-43CD-98FB-E6DA2D4C83A4}|MVC_DEMO\\MVC_DEMO.csproj|c:\\users\\hp110422\\source\\repos\\mvc_demo\\mvc_demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BECDD38-707E-43CD-98FB-E6DA2D4C83A4}|MVC_DEMO\\MVC_DEMO.csproj|solutionrelative:mvc_demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BECDD38-707E-43CD-98FB-E6DA2D4C83A4}|MVC_DEMO\\MVC_DEMO.csproj|c:\\users\\hp110422\\source\\repos\\mvc_demo\\mvc_demo\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BECDD38-707E-43CD-98FB-E6DA2D4C83A4}|MVC_DEMO\\MVC_DEMO.csproj|solutionrelative:mvc_demo\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BECDD38-707E-43CD-98FB-E6DA2D4C83A4}|MVC_DEMO\\MVC_DEMO.csproj|c:\\users\\hp110422\\source\\repos\\mvc_demo\\mvc_demo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1BECDD38-707E-43CD-98FB-E6DA2D4C83A4}|MVC_DEMO\\MVC_DEMO.csproj|solutionrelative:mvc_demo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\HP110422\\source\\repos\\MVC_DEMO\\MVC_DEMO\\Models\\Person.cs",
+              "RelativeDocumentMoniker": "MVC_DEMO\\Models\\Person.cs",
+              "ToolTip": "C:\\Users\\HP110422\\source\\repos\\MVC_DEMO\\MVC_DEMO\\Models\\Person.cs",
+              "RelativeToolTip": "MVC_DEMO\\Models\\Person.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T10:09:02.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GetPerson.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP110422\\source\\repos\\MVC_DEMO\\MVC_DEMO\\Views\\Home\\GetPerson.cshtml",
+              "RelativeDocumentMoniker": "MVC_DEMO\\Views\\Home\\GetPerson.cshtml",
+              "ToolTip": "C:\\Users\\HP110422\\source\\repos\\MVC_DEMO\\MVC_DEMO\\Views\\Home\\GetPerson.cshtml",
+              "RelativeToolTip": "MVC_DEMO\\Views\\Home\\GetPerson.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAADAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-23T10:19:07.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "index1.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP110422\\source\\repos\\MVC_DEMO\\MVC_DEMO\\Views\\Home\\index1.cshtml",
+              "RelativeDocumentMoniker": "MVC_DEMO\\Views\\Home\\index1.cshtml",
+              "ToolTip": "C:\\Users\\HP110422\\source\\repos\\MVC_DEMO\\MVC_DEMO\\Views\\Home\\index1.cshtml",
+              "RelativeToolTip": "MVC_DEMO\\Views\\Home\\index1.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-23T09:58:39.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\HP110422\\source\\repos\\MVC_DEMO\\MVC_DEMO\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MVC_DEMO\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\HP110422\\source\\repos\\MVC_DEMO\\MVC_DEMO\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MVC_DEMO\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAiwC8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T09:27:59.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\HP110422\\source\\repos\\MVC_DEMO\\MVC_DEMO\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "MVC_DEMO\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\HP110422\\source\\repos\\MVC_DEMO\\MVC_DEMO\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "MVC_DEMO\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T09:13:43.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP110422\\source\\repos\\MVC_DEMO\\MVC_DEMO\\Program.cs",
+              "RelativeDocumentMoniker": "MVC_DEMO\\Program.cs",
+              "ToolTip": "C:\\Users\\HP110422\\source\\repos\\MVC_DEMO\\MVC_DEMO\\Program.cs",
+              "RelativeToolTip": "MVC_DEMO\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T09:10:10.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\HP110422\\source\\repos\\MVC_DEMO\\MVC_DEMO\\appsettings.json",
+              "RelativeDocumentMoniker": "MVC_DEMO\\appsettings.json",
+              "ToolTip": "C:\\Users\\HP110422\\source\\repos\\MVC_DEMO\\MVC_DEMO\\appsettings.json",
+              "RelativeToolTip": "MVC_DEMO\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-23T09:10:06.722Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

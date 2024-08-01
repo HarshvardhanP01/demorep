@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP110422\\source\\repos\\Design Patterns\\Creational\\Abstract_Factory\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A8C71DF4-CAAF-4EE0-B10C-8CD7DC527E6A}|Abstract_Factory\\Abstract_Factory.csproj|c:\\users\\hp110422\\source\\repos\\design patterns\\creational\\abstract_factory\\abstract_factory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8C71DF4-CAAF-4EE0-B10C-8CD7DC527E6A}|Abstract_Factory\\Abstract_Factory.csproj|solutionrelative:abstract_factory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP110422\\source\\repos\\Design Patterns\\Creational\\Abstract_Factory\\Abstract_Factory\\Program.cs",
+              "RelativeDocumentMoniker": "Abstract_Factory\\Program.cs",
+              "ToolTip": "C:\\Users\\HP110422\\source\\repos\\Design Patterns\\Creational\\Abstract_Factory\\Abstract_Factory\\Program.cs",
+              "RelativeToolTip": "Abstract_Factory\\Program.cs",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAiwE0AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T06:42:11.297Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

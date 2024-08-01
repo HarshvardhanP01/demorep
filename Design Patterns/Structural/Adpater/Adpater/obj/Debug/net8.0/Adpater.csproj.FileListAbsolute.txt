@@ -1,0 +1,14 @@
+C:\Users\HP110422\source\repos\Design Patterns\Structural\Adpater\Adpater\bin\Debug\net8.0\Adpater.exe
+C:\Users\HP110422\source\repos\Design Patterns\Structural\Adpater\Adpater\bin\Debug\net8.0\Adpater.deps.json
+C:\Users\HP110422\source\repos\Design Patterns\Structural\Adpater\Adpater\bin\Debug\net8.0\Adpater.runtimeconfig.json
+C:\Users\HP110422\source\repos\Design Patterns\Structural\Adpater\Adpater\bin\Debug\net8.0\Adpater.dll
+C:\Users\HP110422\source\repos\Design Patterns\Structural\Adpater\Adpater\bin\Debug\net8.0\Adpater.pdb
+C:\Users\HP110422\source\repos\Design Patterns\Structural\Adpater\Adpater\obj\Debug\net8.0\Adpater.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP110422\source\repos\Design Patterns\Structural\Adpater\Adpater\obj\Debug\net8.0\Adpater.AssemblyInfoInputs.cache
+C:\Users\HP110422\source\repos\Design Patterns\Structural\Adpater\Adpater\obj\Debug\net8.0\Adpater.AssemblyInfo.cs
+C:\Users\HP110422\source\repos\Design Patterns\Structural\Adpater\Adpater\obj\Debug\net8.0\Adpater.csproj.CoreCompileInputs.cache
+C:\Users\HP110422\source\repos\Design Patterns\Structural\Adpater\Adpater\obj\Debug\net8.0\Adpater.dll
+C:\Users\HP110422\source\repos\Design Patterns\Structural\Adpater\Adpater\obj\Debug\net8.0\refint\Adpater.dll
+C:\Users\HP110422\source\repos\Design Patterns\Structural\Adpater\Adpater\obj\Debug\net8.0\Adpater.pdb
+C:\Users\HP110422\source\repos\Design Patterns\Structural\Adpater\Adpater\obj\Debug\net8.0\Adpater.genruntimeconfig.cache
+C:\Users\HP110422\source\repos\Design Patterns\Structural\Adpater\Adpater\obj\Debug\net8.0\ref\Adpater.dll

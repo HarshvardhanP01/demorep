@@ -1,0 +1,183 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP110422\\source\\repos\\BurgerFullproject\\BurgerShopAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{20FFAA82-D778-45CA-99D2-BA1EA6DFAF5B}|BurgerShopAPI\\BurgerShopAPI.csproj|c:\\users\\hp110422\\source\\repos\\burgerfullproject\\burgershopapi\\burgershopapi\\wwwroot\\1.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{20FFAA82-D778-45CA-99D2-BA1EA6DFAF5B}|BurgerShopAPI\\BurgerShopAPI.csproj|solutionrelative:burgershopapi\\wwwroot\\1.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20FFAA82-D778-45CA-99D2-BA1EA6DFAF5B}|BurgerShopAPI\\BurgerShopAPI.csproj|c:\\users\\hp110422\\source\\repos\\burgerfullproject\\burgershopapi\\burgershopapi\\wwwroot\\cartpage.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{20FFAA82-D778-45CA-99D2-BA1EA6DFAF5B}|BurgerShopAPI\\BurgerShopAPI.csproj|solutionrelative:burgershopapi\\wwwroot\\cartpage.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20FFAA82-D778-45CA-99D2-BA1EA6DFAF5B}|BurgerShopAPI\\BurgerShopAPI.csproj|c:\\users\\hp110422\\source\\repos\\burgerfullproject\\burgershopapi\\burgershopapi\\wwwroot\\cart.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{20FFAA82-D778-45CA-99D2-BA1EA6DFAF5B}|BurgerShopAPI\\BurgerShopAPI.csproj|solutionrelative:burgershopapi\\wwwroot\\cart.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20FFAA82-D778-45CA-99D2-BA1EA6DFAF5B}|BurgerShopAPI\\BurgerShopAPI.csproj|c:\\users\\hp110422\\source\\repos\\burgerfullproject\\burgershopapi\\burgershopapi\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20FFAA82-D778-45CA-99D2-BA1EA6DFAF5B}|BurgerShopAPI\\BurgerShopAPI.csproj|solutionrelative:burgershopapi\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20FFAA82-D778-45CA-99D2-BA1EA6DFAF5B}|BurgerShopAPI\\BurgerShopAPI.csproj|c:\\users\\hp110422\\source\\repos\\burgerfullproject\\burgershopapi\\burgershopapi\\data\\ordercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20FFAA82-D778-45CA-99D2-BA1EA6DFAF5B}|BurgerShopAPI\\BurgerShopAPI.csproj|solutionrelative:burgershopapi\\data\\ordercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20FFAA82-D778-45CA-99D2-BA1EA6DFAF5B}|BurgerShopAPI\\BurgerShopAPI.csproj|c:\\users\\hp110422\\source\\repos\\burgerfullproject\\burgershopapi\\burgershopapi\\migrations\\ordercontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20FFAA82-D778-45CA-99D2-BA1EA6DFAF5B}|BurgerShopAPI\\BurgerShopAPI.csproj|solutionrelative:burgershopapi\\migrations\\ordercontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20FFAA82-D778-45CA-99D2-BA1EA6DFAF5B}|BurgerShopAPI\\BurgerShopAPI.csproj|c:\\users\\hp110422\\source\\repos\\burgerfullproject\\burgershopapi\\burgershopapi\\migrations\\20240729035421_initial_commit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20FFAA82-D778-45CA-99D2-BA1EA6DFAF5B}|BurgerShopAPI\\BurgerShopAPI.csproj|solutionrelative:burgershopapi\\migrations\\20240729035421_initial_commit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20FFAA82-D778-45CA-99D2-BA1EA6DFAF5B}|BurgerShopAPI\\BurgerShopAPI.csproj|c:\\users\\hp110422\\source\\repos\\burgerfullproject\\burgershopapi\\burgershopapi\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20FFAA82-D778-45CA-99D2-BA1EA6DFAF5B}|BurgerShopAPI\\BurgerShopAPI.csproj|solutionrelative:burgershopapi\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20FFAA82-D778-45CA-99D2-BA1EA6DFAF5B}|BurgerShopAPI\\BurgerShopAPI.csproj|c:\\users\\hp110422\\source\\repos\\burgerfullproject\\burgershopapi\\burgershopapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{20FFAA82-D778-45CA-99D2-BA1EA6DFAF5B}|BurgerShopAPI\\BurgerShopAPI.csproj|solutionrelative:burgershopapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20FFAA82-D778-45CA-99D2-BA1EA6DFAF5B}|BurgerShopAPI\\BurgerShopAPI.csproj|c:\\users\\hp110422\\source\\repos\\burgerfullproject\\burgershopapi\\burgershopapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20FFAA82-D778-45CA-99D2-BA1EA6DFAF5B}|BurgerShopAPI\\BurgerShopAPI.csproj|solutionrelative:burgershopapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "1.png",
+              "DocumentMoniker": "C:\\Users\\HP110422\\source\\repos\\BurgerFullproject\\BurgerShopAPI\\BurgerShopAPI\\wwwroot\\1.png",
+              "RelativeDocumentMoniker": "BurgerShopAPI\\wwwroot\\1.png",
+              "ToolTip": "C:\\Users\\HP110422\\source\\repos\\BurgerFullproject\\BurgerShopAPI\\BurgerShopAPI\\wwwroot\\1.png",
+              "RelativeToolTip": "BurgerShopAPI\\wwwroot\\1.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-07-29T04:08:34.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CartPage.html",
+              "DocumentMoniker": "C:\\Users\\HP110422\\source\\repos\\BurgerFullproject\\BurgerShopAPI\\BurgerShopAPI\\wwwroot\\CartPage.html",
+              "RelativeDocumentMoniker": "BurgerShopAPI\\wwwroot\\CartPage.html",
+              "ToolTip": "C:\\Users\\HP110422\\source\\repos\\BurgerFullproject\\BurgerShopAPI\\BurgerShopAPI\\wwwroot\\CartPage.html",
+              "RelativeToolTip": "BurgerShopAPI\\wwwroot\\CartPage.html",
+              "ViewState": "AQIAAG8AAAAAAAAAAADwv4AAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-07-29T04:04:07.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "cart.html",
+              "DocumentMoniker": "C:\\Users\\HP110422\\source\\repos\\BurgerFullproject\\BurgerShopAPI\\BurgerShopAPI\\wwwroot\\cart.html",
+              "RelativeDocumentMoniker": "BurgerShopAPI\\wwwroot\\cart.html",
+              "ToolTip": "C:\\Users\\HP110422\\source\\repos\\BurgerFullproject\\BurgerShopAPI\\BurgerShopAPI\\wwwroot\\cart.html",
+              "RelativeToolTip": "BurgerShopAPI\\wwwroot\\cart.html",
+              "ViewState": "AQIAAIwAAAAAAAAAAAAAAKYAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-07-29T03:59:58.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrderContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\HP110422\\source\\repos\\BurgerFullproject\\BurgerShopAPI\\BurgerShopAPI\\Migrations\\OrderContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "BurgerShopAPI\\Migrations\\OrderContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\HP110422\\source\\repos\\BurgerFullproject\\BurgerShopAPI\\BurgerShopAPI\\Migrations\\OrderContextModelSnapshot.cs",
+              "RelativeToolTip": "BurgerShopAPI\\Migrations\\OrderContextModelSnapshot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T03:58:02.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\HP110422\\source\\repos\\BurgerFullproject\\BurgerShopAPI\\BurgerShopAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "BurgerShopAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\HP110422\\source\\repos\\BurgerFullproject\\BurgerShopAPI\\BurgerShopAPI\\appsettings.json",
+              "RelativeToolTip": "BurgerShopAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-29T03:56:32.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP110422\\source\\repos\\BurgerFullproject\\BurgerShopAPI\\BurgerShopAPI\\Program.cs",
+              "RelativeDocumentMoniker": "BurgerShopAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\HP110422\\source\\repos\\BurgerFullproject\\BurgerShopAPI\\BurgerShopAPI\\Program.cs",
+              "RelativeToolTip": "BurgerShopAPI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T03:56:17.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20240729035421_Initial_Commit.cs",
+              "DocumentMoniker": "C:\\Users\\HP110422\\source\\repos\\BurgerFullproject\\BurgerShopAPI\\BurgerShopAPI\\Migrations\\20240729035421_Initial_Commit.cs",
+              "RelativeDocumentMoniker": "BurgerShopAPI\\Migrations\\20240729035421_Initial_Commit.cs",
+              "ToolTip": "C:\\Users\\HP110422\\source\\repos\\BurgerFullproject\\BurgerShopAPI\\BurgerShopAPI\\Migrations\\20240729035421_Initial_Commit.cs",
+              "RelativeToolTip": "BurgerShopAPI\\Migrations\\20240729035421_Initial_Commit.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T03:54:21.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\HP110422\\source\\repos\\BurgerFullproject\\BurgerShopAPI\\BurgerShopAPI\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "BurgerShopAPI\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\HP110422\\source\\repos\\BurgerFullproject\\BurgerShopAPI\\BurgerShopAPI\\Models\\Order.cs",
+              "RelativeToolTip": "BurgerShopAPI\\Models\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T14:01:53.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrderContext.cs",
+              "DocumentMoniker": "C:\\Users\\HP110422\\source\\repos\\BurgerFullproject\\BurgerShopAPI\\BurgerShopAPI\\Data\\OrderContext.cs",
+              "RelativeDocumentMoniker": "BurgerShopAPI\\Data\\OrderContext.cs",
+              "ToolTip": "C:\\Users\\HP110422\\source\\repos\\BurgerFullproject\\BurgerShopAPI\\BurgerShopAPI\\Data\\OrderContext.cs",
+              "RelativeToolTip": "BurgerShopAPI\\Data\\OrderContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T14:01:46.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\HP110422\\source\\repos\\BurgerFullproject\\BurgerShopAPI\\BurgerShopAPI\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "BurgerShopAPI\\Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\Users\\HP110422\\source\\repos\\BurgerFullproject\\BurgerShopAPI\\BurgerShopAPI\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "BurgerShopAPI\\Controllers\\OrdersController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAG0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T03:29:00.424Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

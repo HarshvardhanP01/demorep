@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP110422\\source\\repos\\DBFirstNeat\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3D8AF16E-E513-43F3-ABB4-DBAAEA90DEEC}|DBFirstNeat\\DBFirstNeat.csproj|c:\\users\\hp110422\\source\\repos\\dbfirstneat\\dbfirstneat\\bizlayer\\payrollbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D8AF16E-E513-43F3-ABB4-DBAAEA90DEEC}|DBFirstNeat\\DBFirstNeat.csproj|solutionrelative:dbfirstneat\\bizlayer\\payrollbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D8AF16E-E513-43F3-ABB4-DBAAEA90DEEC}|DBFirstNeat\\DBFirstNeat.csproj|c:\\users\\hp110422\\source\\repos\\dbfirstneat\\dbfirstneat\\data\\payrolldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D8AF16E-E513-43F3-ABB4-DBAAEA90DEEC}|DBFirstNeat\\DBFirstNeat.csproj|solutionrelative:dbfirstneat\\data\\payrolldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D8AF16E-E513-43F3-ABB4-DBAAEA90DEEC}|DBFirstNeat\\DBFirstNeat.csproj|c:\\users\\hp110422\\source\\repos\\dbfirstneat\\dbfirstneat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D8AF16E-E513-43F3-ABB4-DBAAEA90DEEC}|DBFirstNeat\\DBFirstNeat.csproj|solutionrelative:dbfirstneat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D8AF16E-E513-43F3-ABB4-DBAAEA90DEEC}|DBFirstNeat\\DBFirstNeat.csproj|c:\\users\\hp110422\\source\\repos\\dbfirstneat\\dbfirstneat\\controllers\\deptscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D8AF16E-E513-43F3-ABB4-DBAAEA90DEEC}|DBFirstNeat\\DBFirstNeat.csproj|solutionrelative:dbfirstneat\\controllers\\deptscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D8AF16E-E513-43F3-ABB4-DBAAEA90DEEC}|DBFirstNeat\\DBFirstNeat.csproj|c:\\users\\hp110422\\source\\repos\\dbfirstneat\\dbfirstneat\\views\\depts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D8AF16E-E513-43F3-ABB4-DBAAEA90DEEC}|DBFirstNeat\\DBFirstNeat.csproj|solutionrelative:dbfirstneat\\views\\depts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D8AF16E-E513-43F3-ABB4-DBAAEA90DEEC}|DBFirstNeat\\DBFirstNeat.csproj|c:\\users\\hp110422\\source\\repos\\dbfirstneat\\dbfirstneat\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D8AF16E-E513-43F3-ABB4-DBAAEA90DEEC}|DBFirstNeat\\DBFirstNeat.csproj|solutionrelative:dbfirstneat\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D8AF16E-E513-43F3-ABB4-DBAAEA90DEEC}|DBFirstNeat\\DBFirstNeat.csproj|c:\\users\\hp110422\\source\\repos\\dbfirstneat\\dbfirstneat\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3D8AF16E-E513-43F3-ABB4-DBAAEA90DEEC}|DBFirstNeat\\DBFirstNeat.csproj|solutionrelative:dbfirstneat\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D8AF16E-E513-43F3-ABB4-DBAAEA90DEEC}|DBFirstNeat\\DBFirstNeat.csproj|c:\\users\\hp110422\\source\\repos\\dbfirstneat\\dbfirstneat\\dbfirstneat.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3D8AF16E-E513-43F3-ABB4-DBAAEA90DEEC}|DBFirstNeat\\DBFirstNeat.csproj|solutionrelative:dbfirstneat\\dbfirstneat.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PayRollDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\HP110422\\source\\repos\\DBFirstNeat\\DBFirstNeat\\Data\\PayRollDbContext.cs",
+              "RelativeDocumentMoniker": "DBFirstNeat\\Data\\PayRollDbContext.cs",
+              "ToolTip": "C:\\Users\\HP110422\\source\\repos\\DBFirstNeat\\DBFirstNeat\\Data\\PayRollDbContext.cs",
+              "RelativeToolTip": "DBFirstNeat\\Data\\PayRollDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T06:06:21.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP110422\\source\\repos\\DBFirstNeat\\DBFirstNeat\\Views\\Depts\\Index.cshtml",
+              "RelativeDocumentMoniker": "DBFirstNeat\\Views\\Depts\\Index.cshtml",
+              "ToolTip": "C:\\Users\\HP110422\\source\\repos\\DBFirstNeat\\DBFirstNeat\\Views\\Depts\\Index.cshtml",
+              "RelativeToolTip": "DBFirstNeat\\Views\\Depts\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-24T05:49:03.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP110422\\source\\repos\\DBFirstNeat\\DBFirstNeat\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "DBFirstNeat\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\HP110422\\source\\repos\\DBFirstNeat\\DBFirstNeat\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "DBFirstNeat\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-24T05:48:59.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP110422\\source\\repos\\DBFirstNeat\\DBFirstNeat\\Program.cs",
+              "RelativeDocumentMoniker": "DBFirstNeat\\Program.cs",
+              "ToolTip": "C:\\Users\\HP110422\\source\\repos\\DBFirstNeat\\DBFirstNeat\\Program.cs",
+              "RelativeToolTip": "DBFirstNeat\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T05:19:17.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PayRollBL.cs",
+              "DocumentMoniker": "C:\\Users\\HP110422\\source\\repos\\DBFirstNeat\\DBFirstNeat\\BizLayer\\PayRollBL.cs",
+              "RelativeDocumentMoniker": "DBFirstNeat\\BizLayer\\PayRollBL.cs",
+              "ToolTip": "C:\\Users\\HP110422\\source\\repos\\DBFirstNeat\\DBFirstNeat\\BizLayer\\PayRollBL.cs",
+              "RelativeToolTip": "DBFirstNeat\\BizLayer\\PayRollBL.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T04:48:34.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\HP110422\\source\\repos\\DBFirstNeat\\DBFirstNeat\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "DBFirstNeat\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\HP110422\\source\\repos\\DBFirstNeat\\DBFirstNeat\\Properties\\launchSettings.json",
+              "RelativeToolTip": "DBFirstNeat\\Properties\\launchSettings.json",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-24T04:47:33.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DBFirstNeat",
+              "DocumentMoniker": "C:\\Users\\HP110422\\source\\repos\\DBFirstNeat\\DBFirstNeat\\DBFirstNeat.csproj",
+              "RelativeDocumentMoniker": "DBFirstNeat\\DBFirstNeat.csproj",
+              "ToolTip": "C:\\Users\\HP110422\\source\\repos\\DBFirstNeat\\DBFirstNeat\\DBFirstNeat.csproj",
+              "RelativeToolTip": "DBFirstNeat\\DBFirstNeat.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-24T04:46:45.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DeptsController.cs",
+              "DocumentMoniker": "C:\\Users\\HP110422\\source\\repos\\DBFirstNeat\\DBFirstNeat\\Controllers\\DeptsController.cs",
+              "RelativeDocumentMoniker": "DBFirstNeat\\Controllers\\DeptsController.cs",
+              "ToolTip": "C:\\Users\\HP110422\\source\\repos\\DBFirstNeat\\DBFirstNeat\\Controllers\\DeptsController.cs",
+              "RelativeToolTip": "DBFirstNeat\\Controllers\\DeptsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T04:46:43.607Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

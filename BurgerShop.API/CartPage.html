@@ -1,0 +1,76 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cart Page</title>
+    <link rel="stylesheet" href="./CSS/CartStyle.css">
+</head>
+<body>
+    <h1>My Cart</h1>
+    <table>
+        <thead>
+            <tr>
+                <th>Burger Type</th>
+                <th>Category</th>
+                <th>Price</th>
+                <th>Quantity</th>
+                <th>Total Price</th>
+                <th>Remove</th>
+            </tr>
+        </thead>
+        <tbody id="cartTableBody"></tbody>
+    </table>
+    <p>Total Amount: <span id="totalAmount"></span></p>
+    <button onclick="pay()">Pay</button>
+    <script>
+        async function renderCart() {
+            const response = await fetch('/api/cart');
+            const cartData = await response.json();
+            const cartTableBody = document.getElementById("cartTableBody");
+            cartTableBody.innerHTML = "";
+
+            let totalPrice = 0;
+
+            cartData.forEach((item) => {
+                const row = document.createElement("tr");
+                row.innerHTML = `
+                    <td>${item.burgerType}</td>
+                    <td>${item.category}</td>
+                    <td>${item.price}</td>
+                    <td>${item.quantity}</td>
+                    <td>${item.price * item.quantity}</td>
+                    <td><button onclick="removeItem(${item.id})">Remove</button></td>
+                `;
+                cartTableBody.appendChild(row);
+                totalPrice += item.price * item.quantity;
+            });
+
+            document.getElementById("totalAmount").textContent = `$${totalPrice}`;
+        }
+
+        async function removeItem(id) {
+            await fetch(`/api/cart/${id}`, { method: 'DELETE' });
+            renderCart();
+        }
+
+        async function pay() {
+            const response = await fetch('/api/cart');
+            const cartData = await response.json();
+            const totalAmount = cartData.reduce((acc, item) => acc + item.price * item.quantity, 0);
+
+            if (totalAmount > 500 && totalAmount < 1000) {
+                const discountedAmount = totalAmount * 0.95;
+                alert(`Congratulations! You get 5% off. Your discounted amount: $${discountedAmount.toFixed(2)}`);
+            } else if (totalAmount >= 1000) {
+                const discountedAmount = totalAmount * 0.90;
+                alert(`Congratulations! You get 10% off. Your discounted amount: $${discountedAmount.toFixed(2)}`);
+            } else {
+                alert("Thank you for your purchase!");
+            }
+        }
+
+        renderCart();
+    </script>
+</body>
+</html>

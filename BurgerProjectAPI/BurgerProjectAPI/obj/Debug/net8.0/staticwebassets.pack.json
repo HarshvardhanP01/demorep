@@ -1,0 +1,65 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\HP110422\\source\\repos\\BurgerProjectAPI\\BurgerProjectAPI\\wwwroot\\1.png",
+      "PackagePath": "staticwebassets\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\HP110422\\source\\repos\\BurgerProjectAPI\\BurgerProjectAPI\\wwwroot\\2.png",
+      "PackagePath": "staticwebassets\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\HP110422\\source\\repos\\BurgerProjectAPI\\BurgerProjectAPI\\wwwroot\\3.png",
+      "PackagePath": "staticwebassets\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\HP110422\\source\\repos\\BurgerProjectAPI\\BurgerProjectAPI\\wwwroot\\4.png",
+      "PackagePath": "staticwebassets\\4.png"
+    },
+    {
+      "Id": "C:\\Users\\HP110422\\source\\repos\\BurgerProjectAPI\\BurgerProjectAPI\\wwwroot\\5.png",
+      "PackagePath": "staticwebassets\\5.png"
+    },
+    {
+      "Id": "C:\\Users\\HP110422\\source\\repos\\BurgerProjectAPI\\BurgerProjectAPI\\wwwroot\\CartPage.html",
+      "PackagePath": "staticwebassets\\CartPage.html"
+    },
+    {
+      "Id": "C:\\Users\\HP110422\\source\\repos\\BurgerProjectAPI\\BurgerProjectAPI\\wwwroot\\CartStyle.cs",
+      "PackagePath": "staticwebassets\\CartStyle.cs"
+    },
+    {
+      "Id": "C:\\Users\\HP110422\\source\\repos\\BurgerProjectAPI\\BurgerProjectAPI\\wwwroot\\MenuPage.html",
+      "PackagePath": "staticwebassets\\MenuPage.html"
+    },
+    {
+      "Id": "C:\\Users\\HP110422\\source\\repos\\BurgerProjectAPI\\BurgerProjectAPI\\wwwroot\\MenuStyle.css",
+      "PackagePath": "staticwebassets\\MenuStyle.css"
+    },
+    {
+      "Id": "C:\\Users\\HP110422\\source\\repos\\BurgerProjectAPI\\BurgerProjectAPI\\wwwroot\\index-Style.css",
+      "PackagePath": "staticwebassets\\index-Style.css"
+    },
+    {
+      "Id": "C:\\Users\\HP110422\\source\\repos\\BurgerProjectAPI\\BurgerProjectAPI\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.BurgerProjectAPI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.BurgerProjectAPI.props",
+      "PackagePath": "build\\BurgerProjectAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.BurgerProjectAPI.props",
+      "PackagePath": "buildMultiTargeting\\BurgerProjectAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.BurgerProjectAPI.props",
+      "PackagePath": "buildTransitive\\BurgerProjectAPI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

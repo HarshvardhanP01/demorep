@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "CustomeMiddlewares/1.0.0": {
+        "runtime": {
+          "CustomeMiddlewares.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CustomeMiddlewares/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
