@@ -1,0 +1,14 @@
+C:\Users\HP110422\source\repos\TaskAsync\TaskAsync\obj\Debug\net8.0\TaskAsync.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP110422\source\repos\TaskAsync\TaskAsync\obj\Debug\net8.0\TaskAsync.AssemblyInfoInputs.cache
+C:\Users\HP110422\source\repos\TaskAsync\TaskAsync\obj\Debug\net8.0\TaskAsync.AssemblyInfo.cs
+C:\Users\HP110422\source\repos\TaskAsync\TaskAsync\obj\Debug\net8.0\TaskAsync.csproj.CoreCompileInputs.cache
+C:\Users\HP110422\source\repos\TaskAsync\TaskAsync\bin\Debug\net8.0\TaskAsync.exe
+C:\Users\HP110422\source\repos\TaskAsync\TaskAsync\bin\Debug\net8.0\TaskAsync.deps.json
+C:\Users\HP110422\source\repos\TaskAsync\TaskAsync\bin\Debug\net8.0\TaskAsync.runtimeconfig.json
+C:\Users\HP110422\source\repos\TaskAsync\TaskAsync\bin\Debug\net8.0\TaskAsync.dll
+C:\Users\HP110422\source\repos\TaskAsync\TaskAsync\bin\Debug\net8.0\TaskAsync.pdb
+C:\Users\HP110422\source\repos\TaskAsync\TaskAsync\obj\Debug\net8.0\TaskAsync.dll
+C:\Users\HP110422\source\repos\TaskAsync\TaskAsync\obj\Debug\net8.0\refint\TaskAsync.dll
+C:\Users\HP110422\source\repos\TaskAsync\TaskAsync\obj\Debug\net8.0\TaskAsync.pdb
+C:\Users\HP110422\source\repos\TaskAsync\TaskAsync\obj\Debug\net8.0\TaskAsync.genruntimeconfig.cache
+C:\Users\HP110422\source\repos\TaskAsync\TaskAsync\obj\Debug\net8.0\ref\TaskAsync.dll
