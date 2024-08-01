@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP110422\\source\\repos\\AccessModifiers\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1ACADC80-B226-4F3C-AD4C-6D10C8F3EB91}|ClientApp\\ClientApp.csproj|c:\\users\\hp110422\\source\\repos\\accessmodifiers\\clientapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ACADC80-B226-4F3C-AD4C-6D10C8F3EB91}|ClientApp\\ClientApp.csproj|solutionrelative:clientapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C915E1DB-5E01-40EF-A3DA-F38327603852}|MyLibrary\\MyLibrary.csproj|c:\\users\\hp110422\\source\\repos\\accessmodifiers\\mylibrary\\baseclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C915E1DB-5E01-40EF-A3DA-F38327603852}|MyLibrary\\MyLibrary.csproj|solutionrelative:mylibrary\\baseclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BaseClass.cs",
+              "DocumentMoniker": "C:\\Users\\HP110422\\source\\repos\\AccessModifiers\\MyLibrary\\BaseClass.cs",
+              "RelativeDocumentMoniker": "MyLibrary\\BaseClass.cs",
+              "ToolTip": "C:\\Users\\HP110422\\source\\repos\\AccessModifiers\\MyLibrary\\BaseClass.cs",
+              "RelativeToolTip": "MyLibrary\\BaseClass.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAwwDMAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T09:09:42.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP110422\\source\\repos\\AccessModifiers\\ClientApp\\Program.cs",
+              "RelativeDocumentMoniker": "ClientApp\\Program.cs",
+              "ToolTip": "C:\\Users\\HP110422\\source\\repos\\AccessModifiers\\ClientApp\\Program.cs",
+              "RelativeToolTip": "ClientApp\\Program.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwB8AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T09:08:00.645Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
